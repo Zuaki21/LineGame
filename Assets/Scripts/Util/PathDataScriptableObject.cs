@@ -10,4 +10,7 @@ public class PathDataScriptableObject : SingletonScriptableObject<PathDataScript
     /// <summary>AudioMixer参照</summary>
     public static AudioMixer AudioMixer => Instance.audioMixer;
     [SerializeField] private AudioMixer audioMixer;
+
+    public static GameObject WaterParticlePrefab => Instance.waterParticlePrefab;
+    [SerializeField] private GameObject waterParticlePrefab;
 }

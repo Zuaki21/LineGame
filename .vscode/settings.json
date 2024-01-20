@@ -55,6 +55,7 @@
         "extentions",
         "pytz",
         "Rigidbody",
-        "Scriptable"
+        "Scriptable",
+        "Tweening"
     ]
 }

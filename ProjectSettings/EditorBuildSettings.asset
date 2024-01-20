@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Game.unity
-    guid: 6541c9abfd9461245906b8587151c064
+    path: Assets/Scenes/Senbei.unity
+    guid: 9540a437c6595a74c91f66f1ad2eaba2
   m_configObjects: {}
